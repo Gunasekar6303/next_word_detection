@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+keras==2.12.0
+datasets==2.18.0
+numpy==1.24.3
+pickle5==0.0.11
+proto==4.25.0
+h5py==3.8.0
